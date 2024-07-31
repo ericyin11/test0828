@@ -49,7 +49,7 @@ class BaseModel(db.Model):
 
 class User(BaseModel):
     '''
-    用户表
+    用户表test
     '''
     __tablename__ = 'sys_user'
     username = db.Column(db.String(100), index=True, comment='登录的用户名')
