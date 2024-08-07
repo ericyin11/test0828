@@ -1,4 +1,4 @@
-name: Maven build001
+name: Maven build
 
 jobs:
   build:
