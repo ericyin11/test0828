@@ -20,7 +20,7 @@ class BaseModel(db.Model):
     create_time = db.Column(
         db.TIMESTAMP,
         server_default=db.text('CURRENT_TIMESTAMP'),
-        comment='创建时间11')
+        comment='创建时间22')
     update_by = db.Column(db.String(100), default='', comment='修改者')
     update_time = db.Column(
         db.TIMESTAMP,
