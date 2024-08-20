@@ -4,7 +4,7 @@
 组件库：[Vue DevUI](https://vue-devui.github.io/)
 
 # 规范
-- 使用eslint，保存自动格式化
+- 使用eslint，保存自动格式化1
 - 页面和组件文件夹命名及引用为大驼峰（Issue，IssueItem），其他文件夹小驼峰（common）
 - 代码内变量，方法名为小驼峰（issueNum）
 - css 类名为蛇形（submit-btn-color）
