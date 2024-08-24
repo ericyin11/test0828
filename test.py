@@ -3,7 +3,7 @@ from web_apps import db
 import datetime
 
 
-class BaseModel11(db.Model):
+class BaseModel(db.Model):
     '''
     数据库orm模型基类
     '''
