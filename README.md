@@ -3,6 +3,9 @@
 架构：基于[create-vue](https://github.com/vuejs/create-vue)构建（vite+vue3+pinia+scss）
 组件库：[Vue DevUI](https://vue-devui.github.io/)
 
+
+[![](https://pre.gitcode.com/Hello_worldsss/IK_001_01/workflows/docker.yml/badge.svg)](https://test.gitcode.net/testyl001/test001/pipeline?file=docker.yml)
+
 # 规范
 - 使用eslint，保存自动格式化1
 - 页面和组件文件夹命名及引用为大驼峰（Issue，IssueItem），其他文件夹小驼峰（common）
