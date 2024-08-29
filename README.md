@@ -4,7 +4,7 @@
 组件库：[Vue DevUI](https://vue-devui.github.io/)
 
 
-[![](https://pre.gitcode.com/Hello_worldsss/IK_001_01/workflows/docker.yml/badge.svg)](https://test.gitcode.net/testyl001/test001/pipeline?file=docker.yml)
+[![](https://pre.gitcode.com/Hello_worldsss/IK_001_01/workflows/Maven-build.yml/badge.svg)](https:///pre.gitcode.com/Hello_worldsss/IK_001_01/pipeline?file=Maven-build.yml)
 
 # 规范
 - 使用eslint，保存自动格式化1
