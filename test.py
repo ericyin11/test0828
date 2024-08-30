@@ -15,7 +15,7 @@ class BaseModel(db.Model):
         comment='id主键')
     description = db.Column(db.Text, default='', comment='简介')
     sort_no = db.Column(db.Float, default=1, comment='排序')
-    del_flag = db.Column(db.SmallInteger, default=0, comment='软删除标记')
+    del_flag = db.Column(db.SmallInteger, default=0, comment='软删除标记01')
     create_by = db.Column(db.String(100), default='', comment='创建者')
     create_time = db.Column(
         db.TIMESTAMP,
