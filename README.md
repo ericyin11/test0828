@@ -6,6 +6,8 @@
 
 [![](https://gitcode.com/Hello_worldsss/IK_001_01/workflows/Maven-build.yml/badge.svg)](https://gitcode.com/Hello_worldsss/IK_001_01/pipeline?file=Maven-build.yml)
 
+<img src="1/2/test02.jpeg">
+
 # 规范
 - 使用eslint，保存自动格式化1
 - 页面和组件文件夹命名及引用为大驼峰（Issue，IssueItem），其他文件夹小驼峰（common）
