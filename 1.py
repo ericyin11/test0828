@@ -5,7 +5,7 @@ import datetime
 
 class BaseModel(db.Model):
     '''
-    数据库orm模型基类
+    数据库orm模型基类11111
     '''
     __abstract__ = True
     id = db.Column(
