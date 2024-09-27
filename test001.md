@@ -1,63 +1,109 @@
-# gitcode-v2
+# This is the title
 
-架构：基于[create-vue](https://github.com/vuejs/create-vue)构建（vite+vue3+pinia+scss）
-组件库：[Vue DevUI](https://vue-devui.github.io/)
+[TOC]
+# Directory
 
-# 规范
-- 使用eslint，保存自动格式化
-- 页面和组件文件夹命名及引用为大驼峰（Issue，IssueItem），其他文件夹小驼峰（common）
-- 代码内变量，方法名为小驼峰（issueNum）
-- css 类名为蛇形（submit-btn-color）
-- 分支命名（关键字/模块/功能，fix/mr/bigfile-issue-create）
+## Level-1 Directory
+This is a Level-1 directory.
 
-```
-关键字包括：feat、 hotfix、refactor等类型
-```
+### Level-2 Directory
+This is a Level-1 directory.
 
-- commit 提交规范（feat：完成 issue 创建功能）
+## Level-1 Directory
+This is a Level-1 directory.
 
-```
-feat： 新增功能
-fix: 修复 bug
-docs: 仅仅修改了文档，比如 README, CHANGELOG, CONTRIBUTE等等
-style: 仅仅修改了空格、格式缩进、逗号等等，不改变代码逻辑
-refactor: 代码重构，没有加新功能或者修复 bug
-perf: 优化相关，比如提升性能、体验
-test: 测试用例，包括单元测试、集成测试等
-chore: 改变构建流程、或者增加依赖库、工具等
-revert: 回滚到上一个版本
-```
 
-## Customize configuration
+:joy:
+:fire:
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+$E = mc^2$
+$\sqrt{3x-1}+(1+x)^2$  // DEMO无法进行import，使用时请放开代码中注释111111
 
-## Project Setup
 
-```sh
-# 安装依赖
-npm install
-```
+# PlantUML 渲染
+@startuml
+Alice -> "Bob()" : Hello
+"Bob()" -> "This is very long" as Long
+' You can also declare:
+' "Bob()" -> Long as "This is very long"
+Long --> "Bob()" : ok
+@enduml
 
-### start
 
-```sh
-npm run dev # 开发
-npm run prod # 生产
+# Flow Chart
+```mermaid
+flowchart LR
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
 ```
 
-### build
-
-```sh
-npm run build:dev # 开发
-npm run build:prod # 生产
+# Gantt
+```mermaid
+gantt
+    section Section
+    Completed :done,    des1, 2014-01-06,2014-01-08
+    Active        :active,  des2, 2014-01-07, 3d
+    Parallel 1   :         des3, after des1, 1d
+    Parallel 2   :         des4, after des1, 1d
+    Parallel 3   :         des5, after des3, 1d
+    Parallel 4   :         des6, after des4, 1d
 ```
 
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
+# Class Diagram
+```mermaid
+classDiagram
+Class01 <|-- AveryLongClass : Cool
+<<Interface>> Class01
+Class09 --> C2 : Where am I?
+Class09 --* C3
+Class09 --|> Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+class Class10 {
+  <<service>>
+  int id
+  size()
+}
 ```
+
+# State Diagram
+```mermaid
+stateDiagram-v2
+[*] --> Still
+Still --> [*]
+Still --> Moving
+Moving --> Still
+Moving --> Crash
+Crash --> [*]
+```
+
+# Pie
+```mermaid
+pie
+"Dogs" : 386
+"Cats" : 85
+"Rats" : 15
+```
+
+# Sequence Diagram
+```mermaid
+sequenceDiagram
+Alice->>John: Hello John, how are you?
+loop Healthcheck
+    John->>John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John-->>Alice: Great!
+John->>Bob: How about you?
+Bob-->>John: Jolly good!
+```
+
+
 
 
 
