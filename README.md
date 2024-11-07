@@ -9,10 +9,10 @@
 [![](https://gitcode.com/view-design/ViewUIPlus/star/badge.svg)](https://gitcode.com/view-design/ViewUIPlus)
 [![Build Status](https://gitcode.com/DevCloudFE/vue-devui/star/badge.svg)]() 
 
-<img src="1/2/test02.jpeg">
+<img src="https://raw.gitcode.com/Hello_worldsss/IK_001_01/files/main/1/2/test02.jpeg">
 
 # 规范
-- 使用eslint，保存自动格式化1
+- 使用eslint，保存自动格式化1222222
 - 页面和组件文件夹命名及引用为大驼峰（Issue，IssueItem），其他文件夹小驼峰（common）
 - 代码内变量，方法名为小驼峰（issueNum）
 - css 类名为蛇形（submit-btn-color）
