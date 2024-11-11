@@ -11,6 +11,8 @@
 
 <img src="https://raw.gitcode.com/Hello_worldsss/IK_001_01/files/main/1/2/test02.jpeg">
 
+![2ab53276a4ca8a54ad144a373fc49aeb.jpeg](https://raw.gitcode.com/Hello_worldsss/IK_001_01/attachment/uploads/4025eec2-874f-438b-aea3-b09ca4ee3f8f/2ab53276a4ca8a54ad144a373fc49aeb.jpeg '2ab53276a4ca8a54ad144a373fc49aeb.jpeg')
+
 # 规范
 - 使用eslint，保存自动格式化12222223333
 - 页面和组件文件夹命名及引用为大驼峰（Issue，IssueItem），其他文件夹小驼峰（common）
