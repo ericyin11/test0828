@@ -9,7 +9,7 @@
 [![](https://gitcode.com/view-design/ViewUIPlus/star/badge.svg)](https://gitcode.com/view-design/ViewUIPlus)
 [![Build Status](https://gitcode.com/DevCloudFE/vue-devui/star/badge.svg)]() 
 
-<img src="https://raw.gitcode.com/Hello_worldsss/IK_001_01/files/main/1/2/test02.jpeg">
+<img src="1/2/test02.jpeg">
 
 ![2ab53276a4ca8a54ad144a373fc49aeb.jpeg](https://raw.gitcode.com/Hello_worldsss/IK_001_01/attachment/uploads/4025eec2-874f-438b-aea3-b09ca4ee3f8f/2ab53276a4ca8a54ad144a373fc49aeb.jpeg '2ab53276a4ca8a54ad144a373fc49aeb.jpeg')
 
