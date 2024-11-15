@@ -73,3 +73,19 @@ npm run lint
 [tiaozhuan](test001.md#pie)
 
 # a
+
+| title1 | title2 |
+|--|--|
+|--|--|
+
+| title1 | title2 |
+|:--|:--|
+|--|--|
+
+| title1 | title2 |
+|--:|--:|
+|--|--|
+
+| title1 | title2 |
+|:--:|:--:|
+|--|--|
