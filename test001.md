@@ -1,17 +1,5 @@
 # This is the title
 
-[TOC]
-# Directory
-
-## Level-1 Directory
-This is a Level-1 directory.
-
-### Level-2 Directory
-This is a Level-1 directory.
-
-## Level-1 Directory
-This is a Level-1 directory.
-
 
 :joy:
 :fire:
