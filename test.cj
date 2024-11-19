@@ -1,7 +1,7 @@
 /*
  * This benchmark has been rewritten in Cangjie language based on benchmarksgame
  *
- * The Computer Language Benchmarks Game
+ * The Computer Language Benchmarks Game111111
  * https://salsa.debian.org/benchmarksgame-team/benchmarksgame/
  *
  * LICENSE: 3-Clause BSD

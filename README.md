@@ -2,7 +2,7 @@
 
 架构：基于[create-vue](https://github.com/vuejs/create-vue)构建（vite+vue3+pinia+scss）
 组件库：[Vue DevUI](https://vue-devui.github.io/)
-
+11111111
 
 [![](https://gitcode.com/Hello_worldsss/IK_001_01/workflows/Maven-build.yml/badge.svg)](https://gitcode.com/Hello_worldsss/IK_001_01/pipeline?file=Maven-build.yml)
 ![](https://gitcode.com/Hello_worldsss/IK_001_01/build/Maven-build.yml/badge.svg)
@@ -11,8 +11,10 @@
 
 <img src="1/2/test02.jpeg">
 
+![2ab53276a4ca8a54ad144a373fc49aeb.jpeg](https://raw.gitcode.com/Hello_worldsss/IK_001_01/attachment/uploads/4025eec2-874f-438b-aea3-b09ca4ee3f8f/2ab53276a4ca8a54ad144a373fc49aeb.jpeg '2ab53276a4ca8a54ad144a373fc49aeb.jpeg')
+
 # 规范
-- 使用eslint，保存自动格式化1
+- 使用eslint，保存自动格式化
 - 页面和组件文件夹命名及引用为大驼峰（Issue，IssueItem），其他文件夹小驼峰（common）
 - 代码内变量，方法名为小驼峰（issueNum）
 - css 类名为蛇形（submit-btn-color）
@@ -39,6 +41,10 @@ revert: 回滚到上一个版本
 ## Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
+|  |  |  |
+|--|--|--|
+|  |  |  |
+
 
 ## Project Setup
 
@@ -66,3 +72,24 @@ npm run build:prod # 生产
 ```sh
 npm run lint
 ```
+
+
+[tiaozhuan](test001.md#pie)
+
+# a
+
+| title1 | title2 |
+|--|--|
+|--|--|
+
+| title1 | title2 |
+|:--|:--|
+|--|--|
+
+| title1 | title2 |
+|--:|--:|
+|--|--|
+
+| title1 | title2 |
+|:--:|:--:|
+|--|--|

@@ -1,6 +1,7 @@
 name: Bug Report
 description: GitCode工单模版
-title:  ""
+title:  "2222"
+type: "任务"
 labels:  ["bug"]
 assignees: 'yinlin'
 
