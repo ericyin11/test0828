@@ -8,7 +8,7 @@ $E = mc^2$
 $\sqrt{3x-1}+(1+x)^2$  // DEMO无法进行import，使用时请放开代码中注释111111
 
 
-# PlantUML 渲染
+# 渲染
 @startuml
 Alice -> "Bob()" : Hello
 "Bob()" -> "This is very long" as Long
