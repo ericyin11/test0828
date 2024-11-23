@@ -29,7 +29,7 @@ class BaseModel11(db.Model):
 
     def to_dict(self, date_type='str'):
         '''
-        转为字典11
+        转为字典1122
         :return:
         '''
         value = {}
@@ -49,11 +49,11 @@ class BaseModel11(db.Model):
 
 class User(BaseModel):
     '''
-    用户表
+    用户表333
     '''
-    __tablename__ = 'sys_user'
-    username = db.Column(db.String(100), index=True, comment='登录的用户名')
-    password = db.Column(db.String(128), index=True, comment='密码')
+    __tablename__ = 'sys_user'111
+    username = db.Column(db.String(1000), index=True, comment='登录的用户名')
+    password = db.Column(db.String(1287), index=True, comment='密码')
     nickname = db.Column(db.String(100), index=True, comment='昵称')
     avatar = db.Column(db.String(1024), comment='头像')
     birthday = db.Column(db.DateTime, comment='生日')
