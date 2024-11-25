@@ -74,7 +74,7 @@ npm run lint
 ```
 
 
-[tiaozhuan](test001.md#pie)
+[tiaozhuan](.../test001.md#pie)
 
 # a
 
