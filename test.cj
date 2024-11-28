@@ -7,7 +7,7 @@
  * LICENSE: 3-Clause BSD
  * https://benchmarksgame-team.pages.debian.net/benchmarksgame/license.html
  *
- * Description: Allocate and deallocate many many binary treesdad
+ * Description: Allocate and deallocate many many binary treesdad11111
  *
  */
 from std import sync.*
