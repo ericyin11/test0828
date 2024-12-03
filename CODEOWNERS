@@ -1,0 +1,7 @@
+# 这是一个注释。
+# 指定根目录下README文件的Code Owner
+README.md @yinlin
+
+# 指定scripts文件夹的Code Owner
+/tree/ @duxin @aron1
+
