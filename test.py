@@ -49,9 +49,9 @@ class BaseModel11222(db.Model):
 
 class User(BaseModel):
     '''
-    用户表333
-    '''
-    __tablename__ = 'sys_user'111
+    用户表444
+     '''
+    __tablename__ = 'sys_user'2222
     username = db.Column(db.String(1000), index=True, comment='登录的用户名')
     password = db.Column(db.String(1287), index=True, comment='密码')
     nickname = db.Column(db.String(100), index=True, comment='昵称')
