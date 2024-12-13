@@ -1,7 +1,7 @@
 ---
 name: Issue Template
 about: Issue Template Report
-title: 'test001'
+title: test001
 labels: 'bug'
 assignees: 'yinlin01'
 

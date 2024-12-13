@@ -1,17 +1,5 @@
 # This is the title
 
-[TOC]
-# Directory
-
-## Level-1 Directory
-This is a Level-1 directory.
-
-### Level-2 Directory
-This is a Level-1 directory.
-
-## Level-1 Directory
-This is a Level-1 directory.
-
 
 :joy:
 :fire:
@@ -20,7 +8,7 @@ $E = mc^2$
 $\sqrt{3x-1}+(1+x)^2$  // DEMO无法进行import，使用时请放开代码中注释111111
 
 
-# PlantUML 渲染
+# 渲染
 @startuml
 Alice -> "Bob()" : Hello
 "Bob()" -> "This is very long" as Long
@@ -83,6 +71,7 @@ Crash --> [*]
 ```
 
 # Pie
+
 ```mermaid
 pie
 "Dogs" : 386
@@ -103,7 +92,7 @@ John->>Bob: How about you?
 Bob-->>John: Jolly good!
 ```
 
-
+# aaaa
 
 
 

@@ -2,7 +2,7 @@
 
 架构：基于[create-vue](https://github.com/vuejs/create-vue)构建（vite+vue3+pinia+scss）
 组件库：[Vue DevUI](https://vue-devui.github.io/)
-
+11111111
 
 [![](https://gitcode.com/Hello_worldsss/IK_001_01/workflows/Maven-build.yml/badge.svg)](https://gitcode.com/Hello_worldsss/IK_001_01/pipeline?file=Maven-build.yml)
 ![](https://gitcode.com/Hello_worldsss/IK_001_01/build/Maven-build.yml/badge.svg)
@@ -41,6 +41,10 @@ revert: 回滚到上一个版本
 ## Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
+|  |  |  |
+|--|--|--|
+|  |  |  |
+
 
 ## Project Setup
 
@@ -70,4 +74,26 @@ npm run lint
 ```
 
 
-[tiaozhuan](test001.md#Pie)
+[tiaozhuan](./test001.md#pie)
+
+[test](/tree/test.md#111111111)
+
+# a
+
+https://gitcode.com/Hello_worldsss/IK_001_01/blob/main/README.md#project-setup
+
+| title1 | title2 |
+|--|--|
+|--|--|
+
+| title1 | title2 |
+|:--|:--|
+|--|--|
+
+| title1 | title2 |
+|--:|--:|
+|--|--|
+
+| title1 | title2 |
+|:--:|:--:|
+|--|--|
