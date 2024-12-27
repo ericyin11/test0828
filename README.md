@@ -8,7 +8,7 @@
 ![](https://gitcode.com/Hello_worldsss/IK_001_01/build/Maven-build.yml/badge.svg)
 ![](https://gitcode.com/Hello_worldsss/IK_001_01/star/badge.svg)
 [![Build Status](https://gitcode.com/DevCloudFE/vue-devui/star/badge.svg)](https://gitcode.com/DevCloudFE/vue-devui) 
-[![Build Status](https://pre.gitcode.com/DevCloudFE/vue-devui/v2/star/badge.svg)](https://gitcode.com/DevCloudFE/vue-devui) 
+[![Build Status](https://pre.gitcode.com/DevCloudFE/vue-devui/star/v2/badge.svg)](https://gitcode.com/DevCloudFE/vue-devui) 
 
 <img src="1/2/test02.jpeg">
 
