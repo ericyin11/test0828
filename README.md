@@ -66,3 +66,6 @@ npm run build:prod # 生产
 ```sh
 npm run lint
 ```
+
+
+[下载链接](store://opensource/app/detail?id=com.develop.opensource.git)
