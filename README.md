@@ -69,3 +69,5 @@ npm run lint
 
 
 [下载链接](store://opensource/app/detail?id=com.develop.opensource.git)
+
+<a href="store://opensource/app/detail?id=com.develop.opensource.git">
