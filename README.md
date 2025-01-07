@@ -3,6 +3,8 @@
 架构：基于[create-vue](https://github.com/vuejs/create-vue)构建（vite+vue3+pinia+scss）
 组件库：[Vue DevUI](https://vue-devui.github.io/)
 
+# 开源协议
+本项目基于[Apache License 2.0](./LICENSE)
 
 [![](https://gitcode.com/Hello_worldsss/IK_001_01/workflows/Maven-build.yml/badge.svg)](https://gitcode.com/Hello_worldsss/IK_001_01/pipeline?file=Maven-build.yml)
 ![](https://gitcode.com/Hello_worldsss/IK_001_01/build/Maven-build.yml/badge.svg)
