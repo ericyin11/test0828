@@ -71,3 +71,8 @@ npm run lint
 
 
 [下载链接](store://opensource/app/detail?id=com.develop.opensource.git)
+
+
+## Stargazers over time
+
+![Stargazers over time](https://gitcode.com/zkjx/Python-100-Days/starcharts.svg?variant=adaptive)
