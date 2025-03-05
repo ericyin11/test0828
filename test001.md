@@ -14,7 +14,7 @@
 关键字包括：feat、 hotfix、refactor等类型
 ```
 
-- commit 提交规范（feat：完成 issue 创建功能）
+- commit 提交规范（feat：完成 issue 创建功能）11111
 
 ```
 feat： 新增功能
