@@ -1,7 +1,7 @@
 ---
 name: Issue Template
 about: Issue Template Report
-title: 'PR标题模板'
+title: 'PR英文模板'
 labels: 'bug'
 assignees: 'yinlin'
 
