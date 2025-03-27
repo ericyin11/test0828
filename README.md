@@ -3,6 +3,8 @@
 架构：基于[create-vue](https://github.com/vuejs/create-vue)构建（vite+vue3+pinia+scss）
 组件库：[Vue DevUI](https://vue-devui.github.io/)
 
+<hr>
+
 # 开源协议
 本项目基于[Apache License 2.0](./LICENSE)
 111111111132132132142142414
