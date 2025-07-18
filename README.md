@@ -73,7 +73,7 @@ npm run build:prod # 生产
 npm run lint
 ```
 
-
+[跳转])(./README.md#开源协议)
 [下载链接](store://opensource/app/detail?id=com.develop.opensource.git)
 
 
