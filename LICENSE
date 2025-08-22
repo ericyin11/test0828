@@ -1,6 +1,10 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+======================================================================
+The Cangjie Project is under Apache-2.0 with Runtime Library Exceptions:
+======================================================================
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -88,7 +92,7 @@
 
    4. Redistribution. You may reproduce and distribute copies of the
       Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
+      modifications, and in Source or Object form,provided that You
       meet the following conditions:
 
       (a) You must give any other recipients of the Work or
@@ -177,25 +181,47 @@
 
    APPENDIX: How to apply the Apache License to your work.
 
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "{}"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
+   To apply the Apache License to your work, attach the following boilerplate
+   notice, with the fields enclosed by brackets "[]"replaced with your own
+   identifying information. (Don't include the brackets!)  The text should be
+   enclosed in the appropriate comment syntax for the file format. We also
+   recommend that a file or class name and description of purpose be included
+   on the same "printed page" as the copyright notice for easier identification
+   within third-party archives.
 
-   Copyright {yyyy} {name of copyright owner}
+   Copyright [yyyy] [name of copyright owner]
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
+   Licensed under the Apache License, Version 2.0 (the "License"); you may not
+   use this file except in compliance with the License. You may obtain a copy of
+   the License at
 
-       http://www.apache.org/licenses/LICENSE-2.0
+   http://www.apache.org/licenses/LICENSE-2.0
 
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+   Unless required by applicable law or agreed to in writing, software distributed
+   under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+   CONDITIONS OF ANY KIND, either express or implied.
+
+   See the License for the specific language governing permissions and limitations
+   under the License.
+
+   ## Runtime Library Exception to the Apache 2.0 License: ##
+
+   As an exception, if you use this Software to compile your source code and
+   portions of this Software are embedded into the binary product as a result,
+   you may redistribute such product without providing attribution as would
+   otherwise be required by Sections 4(a), 4(b) and 4(d) of the License.
+
+======================================================================
+Software from third parties included in the Cangjie Project:
+======================================================================
+   The Cangjie Project contains third party software which is under
+   different license terms. All such software will be identified clearly
+   using at least one of following two mechanisms:
+
+   1) It will be in a separate directory tree with its own `LICENSE.txt`
+      or `LICENSE` file at the top containing the specific license and
+      restrictions which apply to that software, or
+
+   2) It will contain specific license and restriction terms at the
+      header of every file.
+======================================================================
