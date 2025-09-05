@@ -29,7 +29,7 @@ class BaseModel11(db.Model):
 
     def to_dict(self, date_type='str'):
         '''
-        转为字典11
+        转为字典1133
         :return:
         '''
         value = {}
