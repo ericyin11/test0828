@@ -14,7 +14,8 @@
 ![](https://gitcode.com/Hello_worldsss/IK_001_01/build/Maven-build.yml/badge.svg)
 [![](https://gitcode.com/view-design/ViewUIPlus/star/badge.svg)](https://gitcode.com/view-design/ViewUIPlus)
 [![](https://gitcode.com/view-design/ViewUIPlus/star/v2/badge.svg)](https://gitcode.com/view-design/ViewUIPlus)
-[![Build Status](https://gitcode.com/DevCloudFE/vue-devui/star/badge.svg)]() 
+[![Build Status](https://pre.gitcode.com/DevCloudFE/vue-devui/star/badge.svg)]() 
+![](https://pre.gitcode.com/DevCloudFE/vue-devui/star/v2/badge.svg)
 
 <img src=1/2/test02.jpeg>
 
