@@ -52,6 +52,38 @@ fsajkfhfhjhasf
 fshakfhafhedeaeaears
 
 
+fjsakfhsakfasf
+
+
+fksafhsakjfjksajflasf
+
+
+fjslajflkasjflkjsalkfjlsaf
+
+
+
+fjkjafhsafhksajfhskahf
+
+
+
+djksadjkasdjsakjhfkajshfkjashf
+
+djskafjsakfjaslkkfja
+
+
+fjsafjhsakfhasjkfhaksf
+
+
+djjjjjjjjdijsijdasjd
+
+
+fjskafjaskfhsakhhf
+
+fjiaosjfasjfaskfjaskf
+
+
+fsajkkhfafasfsaf
+
 // [Start quick_start]
 # ls -l hdf_audio*
 crw-rw---- 1 system system 247,   6 1970-01-01 00:00 hdf_audio_capture             // 音频数据录音流服务。
