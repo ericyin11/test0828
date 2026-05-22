@@ -75,6 +75,30 @@ npm run build:prod # 生产
 npm run lint
 ```
 
+数学公式
+
+$$
+\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}
+$$
+
+1113134
+
+$$
+\lim_{n \to +\infty} \sum_{i \in \mathcal{I}} f(x_i) \delta_i = \int_{a}^{b} f(x) \, dx
+$$
+
+
+$$
+\begin{aligned}
+Q(x) &= \max_{u \in \mathcal{U}} \min_{p,r,q}
+\sum_{s \in \mathcal{S}} \frac{365}{(1+\lambda)^s} \sum_{i \in \mathcal{I}} \sum_{t \in \mathcal{T}} \bigg( 
+\sum_{g \in \mathcal{G}} C_{i,g,t,s}^{\mathrm{P}} p_{i,g,t,s} + \\
+&\quad C_{i,t,s}^{\mathrm{R}} r_{i,t,s} +
+\sum_{g \in \mathcal{G}_{\mathcal{R}}} C_{i,g,t,s}^{\mathrm{W}} \left( u_{i,g,s}^{+} P_g^{\max} - p_{i,g,t,s} \right)
+\bigg)
+\end{aligned}
+$$
+
 [跳转](./README.md#开源协议)
 
 [下载链接](store://opensource/app/detail?id=com.develop.opensource.git)
