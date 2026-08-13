@@ -1,0 +1,108 @@
+{
+    "训练": [
+      {
+        "model": "DeepSeek-V4",
+        "title": "DeepSeek-V4-Flash / Pro续训练样例",
+        "desc": "基于TorchTitan-NPU + AutoFuse的DeepSeek-V4续训练样例，包含训练入图与大规模并行训练优化特性说明",
+        "link": "https://gitcode.com/cann/cann-recipes-train/blob/master/llm_pretrain/deepseekv4/README.md"
+      },
+      {
+        "model": "Qwen3",
+        "title": "Qwen3-235B-A22B / Qwen3-32B RL训练样例",
+        "desc": "覆盖GRPO / DAPO、SAM、npugraph_ex、Rollout Rebalance等长序列RL训练优化特性",
+        "link": "https://gitcode.com/cann/cann-recipes-train/blob/master/llm_rl/qwen3/verl-mindspeed/README.md"
+      },
+      {
+        "model": "Qwen3",
+        "title": "Qwen3多轮工具调用Code RL训练样例",
+        "desc": "包含多轮工具调用与代码沙盒训练样例，展示Code RL和推测解码扩展能力",
+        "link": "https://gitcode.com/cann/cann-recipes-train/blob/master/agent_rl/qwen3_code_toolcall/README.md"
+      },
+      {
+        "model": "DeepSeek-V3",
+        "title": "DeepSeek-V3 MXFP8 / HiF8低精度训练样例",
+        "desc": "面向Atlas A5的DeepSeek-V3低精度预训练样例，介绍MXFP8 / HiF8大模型训练低精度优化实践",
+        "link": "https://gitcode.com/cann/cann-recipes-train/blob/master/llm_pretrain/DeepSeekV3/README.md"
+      }
+    ],
+    "推理": [
+      {
+        "model": "deepseek-v4",
+        "title": "DeepSeek-V4系列推理优化样例",
+        "desc": "支持DeepSeek-V4在昇腾Atlas A3 Pod平台和950PR/DT平台部署，提供长达1M序列的高性能推理能力",
+        "link": "https://gitcode.com/cann/cann-recipes-infer/tree/master/models/deepseek_v4"
+      },
+      {
+        "model": "qwen3.5",
+        "title": "Qwen3.5推理优化样例",
+        "desc": "在昇腾Atlas A3 Pod平台上完成Qwen3.5-35B-A3B模型基于框架的快速部署与性能优化",
+        "link": "https://gitcode.com/cann/cann-recipes-infer/tree/master/models/qwen3_5"
+      },
+      {
+        "model": "HunyuanVideo",
+        "title": "HunyuanVideo推理优化样例",
+        "desc": "支持HunyuanVideo在昇腾NPU环境部署，面向720p长序列场景提供高性能文生视频推理能力，并支持950PR平台量化加速",
+        "link": "https://gitcode.com/cann/cann-recipes-infer/tree/master/models/hunyuan-video"
+      },
+      {
+        "model": "Wan2.2-I2V",
+        "title": "Wan2.2-I2V推理优化样例",
+        "desc": "支持Wan2.2-I2V在昇腾NPU环境部署，提供基于图像输入的高性能视频生成推理能力",
+        "link": "https://gitcode.com/cann/cann-recipes-infer/tree/master/models/wan2.2-i2v"
+      }
+    ],
+    "模型量化": [
+      {
+        "model": "Qwen3.6-MoE",
+        "title": "Qwen3.6-MoE量化样例",
+        "desc": "面向Atlas A3的Qwen3.6-MoE精度测量、量化、数据提取和PTQ全流程样例，介绍了一种在4bit量化下掉点较少的优化样例",
+        "link": "https://gitcode.com/cann/amct/blob/master/examples/models/qwen3.6/Qwen3.6-Moe.md"
+      },
+      {
+        "model": "DeepSeek-V4",
+        "title": "DeepSeek-V4端到端后训练量化样例",
+        "desc": "基于DeepSeek-V4的全仓流程样例，包括基准精度测算、直转量化精度损失测算、提取校准数据集、PTQ并保存量化系数以及量化模型导出",
+        "link": "https://gitcode.com/cann/amct/blob/master/examples/models/deepseekv4/DeepSeekV4-Flash-Walkthrough.md"
+      }
+    ],
+    "具身智能": [
+      {
+        "model": "Pi0",
+        "title": "Pi0通用机器人控制训练样例",
+        "desc": "面向Atlas A2的Pi0通用机器人控制训推样例，实现对机器人操作任务的精细控制",
+        "link": "https://gitcode.com/cann/cann-recipes-embodied-ai/tree/master/manipulation/pi0/train"
+      },
+      {
+        "model": "SmolVLA",
+        "title": "SmolVLA轻量VLA训练样例",
+        "desc": "面向Atlas A2的SmolVLA分布式训练样例，介绍轻量级VLA模型的低成本操作策略学习实践",
+        "link": "https://gitcode.com/cann/cann-recipes-embodied-ai/tree/master/manipulation/smolvla/train"
+      },
+      {
+        "model": "VGGT",
+        "title": "VGGT三维视觉推理样例",
+        "desc": "面向Atlas A2/A3 的VGGT三维视觉推理样例，实现从多视角图像一步估计相机位姿、点云与深度",
+        "link": "https://gitcode.com/cann/cann-recipes-embodied-ai/tree/master/3d_vision/vggt"
+      },
+      {
+        "model": "NMR",
+        "title": "NMR人形动作重定向训练样例",
+        "desc": "面向Atlas A2的NMR神经运动重定向训练样例，将人类SMPL-X动作重定向到Unitree G1人形机器人",
+        "link": "https://gitcode.com/cann/cann-recipes-embodied-ai/tree/master/locomotion/NMR"
+      }
+    ],
+    "鸿蒙推理": [
+      {
+        "model": "",
+        "title": "QQ音乐声伴分离鸿蒙推理优化实践",
+        "desc": "QQ音乐声伴分离业务模型中使用Ascend C实现BandNorm等算子在鸿蒙设备上的高性能推理部署。",
+        "link": "https://gitcode.com/cann/cann-recipes-harmony-infer/blob/master/ops/ascendc/docs/custom-npu_bandNorm.md"
+      },
+      {
+        "model": "",
+        "title": "Sobel边缘检测算法鸿蒙推理实践",
+        "desc": "Ascend C实现Sobel算子，同时构建Soble单算子模型，在鸿蒙设备上推理部署。",
+        "link": "https://gitcode.com/cann/cann-recipes-harmony-infer/blob/master/ops/ascendc/docs/custom-npu_sobel.md"
+      }
+    ]
+  }
